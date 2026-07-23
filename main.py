@@ -1,4 +1,4 @@
-from agent.graph import app
+from multi_agent.agents.weather_agent_v1.graph import app
 
 
 def main() -> None:
